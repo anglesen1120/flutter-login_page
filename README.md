@@ -1,6 +1,6 @@
 # login_page
 
-A new Flutter application.
+a flutter login page design, there's still bugs here. And i'm too lazy fix it xD
 
 ## Getting Started
 
